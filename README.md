@@ -7,3 +7,5 @@ necesarias para la seguridad. Muchas de las empresas que han optado por no inver
 días perdidos en accidentabilidad, bajas en la producción, alzas en el pago de cotizaciones (al organismo administrador del seguro de accidentes del trabajo, ley 16.744), entre otros. Además,
 hay que considerar posibles demandas y pagos de indemnizaciones a los trabajadores y familiares afectados por accidentes del trabajo.
 
+
+https://github.com/stzupa/modulo5sprint  Sergio Teran
